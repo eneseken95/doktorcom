@@ -1,0 +1,96 @@
+@media (max-width: 768px) 
+{
+    header 
+    {
+        padding: 10px;
+    }
+}
+@media (max-width: 480px)
+{
+    body 
+    {
+        font-size: 14px;
+    }
+
+    header 
+    {
+        font-size: 18px;
+    }
+}
+@media only screen and (min-width: 768px) 
+{
+     #carouselExampleIndicators
+    {
+       width: 100%;
+       height: 400px;
+       
+    }
+    img
+    {
+        height: 380px;
+    }
+}
+.iletisim
+{
+    background-image: url("doktor4.jpg");
+    color: white;
+}
+table
+{
+    margin: auto;
+}
+.inputt
+{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ortala
+{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+form input 
+{
+	margin:10px 5px;
+	padding:8px 10px;
+	width: 220px;
+	outline:none;
+	border:3px solid rgb(253, 253, 255);
+	border-radius:20px;
+	display:inline-block;
+	-webkit-box-sizing:border-box;
+	   -moz-box-sizing:border-box;
+	        box-sizing:border-box;
+    -webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
+#fonts
+{
+    font-family: 'Kalam', cursive;
+    font-weight: 600; 
+    font-size: 30px;
+    margin-top: 25px;
+}
+.ust
+{
+    margin-top: -80px;
+}
+.fonts
+{
+    font-family: 'Kalam', cursive;
+    font-weight: 600; 
+    text-align: center;
+    margin: auto;
+}
+#font
+{
+    font-family: 'Kalam', cursive;
+    font-weight: 600; 
+    font-size: 30px;
+}
